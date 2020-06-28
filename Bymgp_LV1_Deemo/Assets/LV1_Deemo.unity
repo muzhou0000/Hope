@@ -6055,7 +6055,7 @@ MonoBehaviour:
     FieldOfView: 100
     OrthographicSize: 10
     NearClipPlane: 0.1
-    FarClipPlane: 5000
+    FarClipPlane: 20000
     Dutch: 0
     LensShift: {x: 0, y: 0}
   m_Transitions:
@@ -6073,7 +6073,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 537536015}
-  m_LocalRotation: {x: 0.022155497, y: -0.000000018022543, z: 3.9939604e-10, w: 0.9997546}
+  m_LocalRotation: {x: 0.022155495, y: 0.000000017331619, z: -3.840902e-10, w: 0.9997546}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -7395,7 +7395,7 @@ MonoBehaviour:
     FieldOfView: 100
     OrthographicSize: 10
     NearClipPlane: 0.1
-    FarClipPlane: 5000
+    FarClipPlane: 20000
     Dutch: 0
     LensShift: {x: 0, y: 0}
   m_Transitions:
@@ -7413,7 +7413,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 639595333}
-  m_LocalRotation: {x: 0.13870123, y: -0.00000003171514, z: 0.000000004441862, w: 0.99033433}
+  m_LocalRotation: {x: 0.1387012, y: 0.000000011171894, z: -0.0000000015646793, w: 0.99033433}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -10560,7 +10560,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 808991480}
-  m_LocalRotation: {x: -0.32501796, y: 0.6279174, z: 0.3249245, w: 0.628098}
+  m_LocalRotation: {x: -0.325018, y: 0.6279174, z: 0.32492453, w: 0.628098}
   m_LocalPosition: {x: -1081, y: 1075.6499, z: 2366.5972}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -13534,7 +13534,7 @@ MonoBehaviour:
     FieldOfView: 100
     OrthographicSize: 10
     NearClipPlane: 0.1
-    FarClipPlane: 5000
+    FarClipPlane: 20000
     Dutch: 0
     LensShift: {x: 0, y: 0}
   m_Transitions:
@@ -13552,7 +13552,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 944112653}
-  m_LocalRotation: {x: 0.08499726, y: -0.000000017671749, z: 0.0000000015075051, w: 0.9963812}
+  m_LocalRotation: {x: 0.08499726, y: -0.000000017671908, z: 0.0000000015075188, w: 0.9963812}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -13707,8 +13707,8 @@ Camera:
     width: 1
     height: 1
   near clip plane: 0.1
-  far clip plane: 5000
-  field of view: 42
+  far clip plane: 20000
+  field of view: 100
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -13733,8 +13733,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: -0.12678346, y: 0.0996737, z: 0.012805669, w: 0.98682684}
-  m_LocalPosition: {x: -4527.9575, y: -363.5847, z: -437.33948}
+  m_LocalRotation: {x: 0.08499726, y: -0.000000035343582, z: 0.0000000030150187, w: 0.9963812}
+  m_LocalPosition: {x: -3573.378, y: 813.6, z: 4099.8965}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -16746,7 +16746,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1202514125}
-  m_LocalRotation: {x: -0.12678346, y: 0.0996737, z: 0.012805669, w: 0.98682684}
+  m_LocalRotation: {x: -0.12678348, y: 0.0996737, z: 0.0128056705, w: 0.98682684}
   m_LocalPosition: {x: -202, y: 49.00003, z: 484.43066}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -17018,7 +17018,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1234909878}
-  m_LocalRotation: {x: -0.24920794, y: -0.38083094, z: -0.10736813, w: 0.88393176}
+  m_LocalRotation: {x: -0.24920785, y: -0.38083097, z: -0.107368104, w: 0.88393176}
   m_LocalPosition: {x: 234.4292, y: 174, z: 646.4419}
   m_LocalScale: {x: 41.989998, y: 41.990005, z: 41.989998}
   m_Children:
@@ -22741,7 +22741,7 @@ MonoBehaviour:
     FieldOfView: 100
     OrthographicSize: 10
     NearClipPlane: 0.1
-    FarClipPlane: 5000
+    FarClipPlane: 20000
     Dutch: 0
     LensShift: {x: 0, y: 0}
   m_Transitions:
