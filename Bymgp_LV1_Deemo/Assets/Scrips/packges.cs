@@ -8,12 +8,18 @@ public class packges : MonoBehaviour
 {
     public GameObject UI_Start;
     public int menu;
+    public Animator STB_ani;
     void Update()
     {
         if (Input.anyKeyDown)
         {
-            UI_Start.SetActive(false);
-            menu = 1;
+            STB_ani.SetBool("1", true);
+            Invoke("endUIStart", 17);
         }
+    }
+    void endUIStart()
+    {
+
+        UI_Start.SetActive(false);
     }
 }
